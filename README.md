@@ -2,6 +2,12 @@
 
 Este repositório contém um projeto de site desenvolvido com Django, focado no tema da indústria de vestuário. O site utiliza tecnologias como Python, Django, HTML5, CSS3 e Bootstrap 5 para criar uma plataforma atrativa e funcional relacionada ao mundo da moda e vestuário.
 
+## 💻 Sobre o Site
+
+🚀 ● É um site de e-commerce para vendas de roupas, vendendo acessórios e tudo referente ao vestuário, seja de masculino ou feminino, o site não possui muitas páginas, já tendo vários conteúdos dentro do mesmo, serve e atende adequadamente os requisitos de uma loja online desse meio, a loja se chama Majestoso e foi pego de um template no site chamado <a href="https://themewagon.com/">**Themewagon**</a> e foi traduzido por <a href="https://github.com/DaviVidal01">**DaviVidal01**</a> para o português.
+
+<img src='https://themewagon.com/wp-content/uploads/2021/05/majestic-2.png' width='1250px' height='500px'>
+
 ## 📜 ◼ Pré-requisitos
 
 - [Python](https://www.python.org/downloads/)
@@ -16,7 +22,7 @@ Este repositório contém um projeto de site desenvolvido com Django, focado no 
    git clone https://github.com/seu-usuario/seu-repositorio.git
    cd seu-repositorio
    ```
-2. Crie um ambiente virtual e ative-o:
+2. Crie um ambiente virtual:
 
 **No Windows:**
 
@@ -32,27 +38,18 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-**Instale as dependências:**
-
-```sh
-pip install -r requirements.txt
-```
-
-**Execute as migrações do banco de dados:**
-
-```sh
-python manage.py migrate
-```
+3. Ligue o servidor para o site
 
 **Inicie o servidor:**
 
 ```sh
 python manage.py runserver
 ```
+
 Acesse o site em seu navegador em http://localhost:8000/.
 
 
-## Contribuição
+## 🤝 Contribuição
 
 Se desejar contribuir para o desenvolvimento deste projeto, siga estas etapas:
 
@@ -62,10 +59,10 @@ Faça suas alterações e commit **(git commit -m 'Adiciona nova funcionalidade'
 Faça um push para o branch **(git push origin nova-funcionalidade)**.<br>
 Abra uma solicitação **pull** para este repositório.<br>
 
-## Recursos Adicionais
+## 🗂️ Recursos Adicionais
 [Django Documentation](https://docs.djangoproject.com/en/4.2/)<br>
 [Bootstrap Documentation](https://getbootstrap.com/)<br>
 [GitHub Markdown Guide](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)<br>
 
-## Licença
+## 🧾 Licença
 Apache 2.0
