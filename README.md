@@ -19,8 +19,8 @@ Este repositório contém um projeto de site desenvolvido com Django, focado no 
 1. Clone este repositório:
 
    ```sh
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/seu-usuario/seu-repositorio.git](https://github.com/SenaiMG/desenvolvimento-web-DaviVidal01.git
+   cd desenvolvimento-web-DaviVidal01.git
    ```
 2. Crie um ambiente virtual:
 
